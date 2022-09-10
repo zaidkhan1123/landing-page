@@ -1,8 +1,20 @@
+@media (max-width:868px) {
+  .image{
+    width: 101%;
+  }
+  
+}
+
+
 body{
+  padding: 3%;
+}
+.container{
     background-image: url(./bg-desktop.svg);
     background-color:hsl(hsl(300, 69%, 71%)) ;
     background-color: hsl(257, 40%, 49%);
     font-family: 'Open Sans', sans-serif;;
+    margin-top: 5%;
    
 }
 .m-heading{
